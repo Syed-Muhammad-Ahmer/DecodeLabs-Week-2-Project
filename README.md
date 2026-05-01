@@ -123,7 +123,7 @@ Body (JSON):
   "title": "Learn MERN API"
 }
 ```
-<img width="1920" height="1080" alt="Screenshot (8) - Copy" src="https://github.com/user-attachments/assets/d8d7431c-5752-4a59-9605-45435bd6b1d7" />
+<img width="1611" height="990" alt="Screenshot (8)" src="https://github.com/user-attachments/assets/19843af4-5fa3-4545-95ea-65193c6490f5" />
 
 ---
 
@@ -144,7 +144,7 @@ Request:
 ```
 DELETE /api/tasks/:id
 ```
-<img width="1623" height="1013" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/14d58a15-37fb-4fda-a510-0ec0def3787a" />
+![Uploading Screenshot (17).png…]()
 
 ---
 
