@@ -93,6 +93,7 @@ Response:
   }
 ]
 ```
+<img width="1612" height="1002" alt="Screenshot (14)" src="https://github.com/user-attachments/assets/50a7bd0c-c1a6-4251-ab1a-0dcdc4a69833" />
 
 ---
 
@@ -103,6 +104,7 @@ Request:
 ```
 GET /api/tasks/:id
 ```
+<img width="1597" height="846" alt="get by id" src="https://github.com/user-attachments/assets/eee4301e-044b-4924-8606-158b48011b49" />
 
 ---
 
@@ -121,6 +123,7 @@ Body (JSON):
   "title": "Learn MERN API"
 }
 ```
+<img width="1920" height="1080" alt="Screenshot (8) - Copy" src="https://github.com/user-attachments/assets/d8d7431c-5752-4a59-9605-45435bd6b1d7" />
 
 ---
 
@@ -141,6 +144,7 @@ Request:
 ```
 DELETE /api/tasks/:id
 ```
+<img width="1623" height="1013" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/14d58a15-37fb-4fda-a510-0ec0def3787a" />
 
 ---
 
