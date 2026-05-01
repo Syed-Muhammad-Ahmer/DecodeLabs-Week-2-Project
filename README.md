@@ -104,7 +104,8 @@ Request:
 ```
 GET /api/tasks/:id
 ```
-<img width="1597" height="846" alt="get by id" src="https://github.com/user-attachments/assets/eee4301e-044b-4924-8606-158b48011b49" />
+![Uploading Screenshot (18).png…]()
+
 
 ---
 
