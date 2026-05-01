@@ -104,7 +104,8 @@ Request:
 ```
 GET /api/tasks/:id
 ```
-![Uploading Screenshot (18).png…]()
+<img width="1608" height="1013" alt="Screenshot (9)" src="https://github.com/user-attachments/assets/6d82641f-87b3-48bb-afd7-c081ce34c415" />
+
 
 
 ---
@@ -135,6 +136,7 @@ Request:
 ```
 PUT /api/tasks/:id
 ```
+<img width="1623" height="1006" alt="image" src="https://github.com/user-attachments/assets/bcfb493e-b38b-4de9-b7db-69bacfa8acb8" />
 
 ---
 
@@ -145,7 +147,8 @@ Request:
 ```
 DELETE /api/tasks/:id
 ```
-![Uploading Screenshot (17).png…]()
+<img width="1597" height="846" alt="get by id" src="https://github.com/user-attachments/assets/1f9a89a1-7d15-43c5-88de-5e4b861c8162" />
+
 
 ---
 
